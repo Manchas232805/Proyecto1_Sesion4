@@ -1,4 +1,4 @@
-package Programa;
+package Programas;
 import java.util.Scanner;
 public class Propuestos04 {
     public static void main (String[] args) {
